@@ -4,4 +4,7 @@ numpy
 plotly
 folium
 streamlit-folium
+matplotlib
 scikit-learn
+
+
